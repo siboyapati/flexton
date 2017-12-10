@@ -1,0 +1,18 @@
+https://mlab.com/login/
+username: eshwardeveloper70
+password: texas100
+
+
+database
+un:admin
+pd: pswd
+
+mongodb://admin:pswd@ds113063.mlab.com:13063/mongo-flexton
+
+
+To connect using the mongo shell:
+mongo ds113063.mlab.com:13063/mongo-flexton -u <dbuser> -p <dbpassword>
+To connect using a driver via the standard MongoDB URI (what's this?):
+
+mongodb://<dbuser>:<dbpassword>@ds113063.mlab.com:13063/mongo-flexton
+
