@@ -1,0 +1,23 @@
+<div class="jumbotron text-center" data-ng-init="getData()">
+    <h1>About Page!!!</h1>
+
+    <p>{{ message }}</p>
+
+
+
+</div>
+
+<div ng-repeat="d in emails">
+    <div class="container">
+        <span style="padding: 10px">
+            {{d.name}}
+        </span>
+        <span style="padding: 10px">
+            {{d.email}}
+        </span>
+        <span style="padding: 10px">
+            {{d.company}}
+        </span>
+    </div>
+
+</div>

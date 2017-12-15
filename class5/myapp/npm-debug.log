@@ -1,0 +1,379 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/siboyapati/.nvm/versions/node/v6.11.0/bin/node',
+1 verbose cli   '/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/bin/npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   '--scripts-prepend-node-path=auto' ]
+2 info using npm@3.10.10
+3 info using node@v6.11.0
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly install normalizeTree
+8 silly loadCurrentTree Finishing
+9 silly loadIdealTree Starting
+10 silly install loadIdealTree
+11 silly cloneCurrentTree Starting
+12 silly install cloneCurrentTreeToIdealTree
+13 silly cloneCurrentTree Finishing
+14 silly loadShrinkwrap Starting
+15 silly install loadShrinkwrap
+16 silly loadShrinkwrap Finishing
+17 silly loadAllDepsIntoIdealTree Starting
+18 silly install loadAllDepsIntoIdealTree
+19 silly fetchNamedPackageData body-parser
+20 silly mapToRegistry name body-parser
+21 silly mapToRegistry using default registry
+22 silly mapToRegistry registry https://npm.paypal.com/
+23 silly mapToRegistry data Result {
+23 silly mapToRegistry   raw: 'body-parser',
+23 silly mapToRegistry   scope: null,
+23 silly mapToRegistry   escapedName: 'body-parser',
+23 silly mapToRegistry   name: 'body-parser',
+23 silly mapToRegistry   rawSpec: '',
+23 silly mapToRegistry   spec: 'latest',
+23 silly mapToRegistry   type: 'tag' }
+24 silly mapToRegistry uri https://npm.paypal.com/body-parser
+25 silly fetchNamedPackageData cookie-parser
+26 silly mapToRegistry name cookie-parser
+27 silly mapToRegistry using default registry
+28 silly mapToRegistry registry https://npm.paypal.com/
+29 silly mapToRegistry data Result {
+29 silly mapToRegistry   raw: 'cookie-parser',
+29 silly mapToRegistry   scope: null,
+29 silly mapToRegistry   escapedName: 'cookie-parser',
+29 silly mapToRegistry   name: 'cookie-parser',
+29 silly mapToRegistry   rawSpec: '',
+29 silly mapToRegistry   spec: 'latest',
+29 silly mapToRegistry   type: 'tag' }
+30 silly mapToRegistry uri https://npm.paypal.com/cookie-parser
+31 silly fetchNamedPackageData debug
+32 silly mapToRegistry name debug
+33 silly mapToRegistry using default registry
+34 silly mapToRegistry registry https://npm.paypal.com/
+35 silly mapToRegistry data Result {
+35 silly mapToRegistry   raw: 'debug',
+35 silly mapToRegistry   scope: null,
+35 silly mapToRegistry   escapedName: 'debug',
+35 silly mapToRegistry   name: 'debug',
+35 silly mapToRegistry   rawSpec: '',
+35 silly mapToRegistry   spec: 'latest',
+35 silly mapToRegistry   type: 'tag' }
+36 silly mapToRegistry uri https://npm.paypal.com/debug
+37 silly fetchNamedPackageData express
+38 silly mapToRegistry name express
+39 silly mapToRegistry using default registry
+40 silly mapToRegistry registry https://npm.paypal.com/
+41 silly mapToRegistry data Result {
+41 silly mapToRegistry   raw: 'express',
+41 silly mapToRegistry   scope: null,
+41 silly mapToRegistry   escapedName: 'express',
+41 silly mapToRegistry   name: 'express',
+41 silly mapToRegistry   rawSpec: '',
+41 silly mapToRegistry   spec: 'latest',
+41 silly mapToRegistry   type: 'tag' }
+42 silly mapToRegistry uri https://npm.paypal.com/express
+43 silly fetchNamedPackageData morgan
+44 silly mapToRegistry name morgan
+45 silly mapToRegistry using default registry
+46 silly mapToRegistry registry https://npm.paypal.com/
+47 silly mapToRegistry data Result {
+47 silly mapToRegistry   raw: 'morgan',
+47 silly mapToRegistry   scope: null,
+47 silly mapToRegistry   escapedName: 'morgan',
+47 silly mapToRegistry   name: 'morgan',
+47 silly mapToRegistry   rawSpec: '',
+47 silly mapToRegistry   spec: 'latest',
+47 silly mapToRegistry   type: 'tag' }
+48 silly mapToRegistry uri https://npm.paypal.com/morgan
+49 silly fetchNamedPackageData pug
+50 silly mapToRegistry name pug
+51 silly mapToRegistry using default registry
+52 silly mapToRegistry registry https://npm.paypal.com/
+53 silly mapToRegistry data Result {
+53 silly mapToRegistry   raw: 'pug',
+53 silly mapToRegistry   scope: null,
+53 silly mapToRegistry   escapedName: 'pug',
+53 silly mapToRegistry   name: 'pug',
+53 silly mapToRegistry   rawSpec: '',
+53 silly mapToRegistry   spec: 'latest',
+53 silly mapToRegistry   type: 'tag' }
+54 silly mapToRegistry uri https://npm.paypal.com/pug
+55 silly fetchNamedPackageData serve-favicon
+56 silly mapToRegistry name serve-favicon
+57 silly mapToRegistry using default registry
+58 silly mapToRegistry registry https://npm.paypal.com/
+59 silly mapToRegistry data Result {
+59 silly mapToRegistry   raw: 'serve-favicon',
+59 silly mapToRegistry   scope: null,
+59 silly mapToRegistry   escapedName: 'serve-favicon',
+59 silly mapToRegistry   name: 'serve-favicon',
+59 silly mapToRegistry   rawSpec: '',
+59 silly mapToRegistry   spec: 'latest',
+59 silly mapToRegistry   type: 'tag' }
+60 silly mapToRegistry uri https://npm.paypal.com/serve-favicon
+61 verbose request uri https://npm.paypal.com/pug
+62 verbose request no auth needed
+63 info attempt registry request try #1 at 4:34:51 PM
+64 verbose request using bearer token for auth
+65 verbose request id 7a88e7363160ddb4
+66 http request GET https://npm.paypal.com/pug
+67 verbose request uri https://npm.paypal.com/cookie-parser
+68 verbose request no auth needed
+69 info attempt registry request try #1 at 4:34:51 PM
+70 verbose request using bearer token for auth
+71 http request GET https://npm.paypal.com/cookie-parser
+72 verbose request uri https://npm.paypal.com/body-parser
+73 verbose request no auth needed
+74 info attempt registry request try #1 at 4:34:51 PM
+75 verbose request using bearer token for auth
+76 http request GET https://npm.paypal.com/body-parser
+77 verbose request uri https://npm.paypal.com/debug
+78 verbose request no auth needed
+79 info attempt registry request try #1 at 4:34:51 PM
+80 verbose request using bearer token for auth
+81 http request GET https://npm.paypal.com/debug
+82 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+83 verbose request uri https://npm.paypal.com/morgan
+84 verbose request no auth needed
+85 info attempt registry request try #1 at 4:34:51 PM
+86 verbose request using bearer token for auth
+87 http request GET https://npm.paypal.com/morgan
+88 verbose request uri https://npm.paypal.com/express
+89 verbose request no auth needed
+90 info attempt registry request try #1 at 4:34:51 PM
+91 verbose request using bearer token for auth
+92 http request GET https://npm.paypal.com/express
+93 verbose request uri https://npm.paypal.com/serve-favicon
+94 verbose request no auth needed
+95 info attempt registry request try #1 at 4:34:51 PM
+96 verbose request using bearer token for auth
+97 http request GET https://npm.paypal.com/serve-favicon
+98 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+99 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+100 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+101 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+102 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+103 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+104 info attempt registry request try #2 at 4:35:01 PM
+105 verbose request using bearer token for auth
+106 http request GET https://npm.paypal.com/body-parser
+107 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+108 info attempt registry request try #2 at 4:35:01 PM
+109 verbose request using bearer token for auth
+110 http request GET https://npm.paypal.com/debug
+111 info attempt registry request try #2 at 4:35:01 PM
+112 verbose request using bearer token for auth
+113 http request GET https://npm.paypal.com/cookie-parser
+114 info attempt registry request try #2 at 4:35:01 PM
+115 verbose request using bearer token for auth
+116 http request GET https://npm.paypal.com/pug
+117 info attempt registry request try #2 at 4:35:01 PM
+118 verbose request using bearer token for auth
+119 http request GET https://npm.paypal.com/morgan
+120 info attempt registry request try #2 at 4:35:01 PM
+121 verbose request using bearer token for auth
+122 http request GET https://npm.paypal.com/express
+123 info attempt registry request try #2 at 4:35:01 PM
+124 verbose request using bearer token for auth
+125 http request GET https://npm.paypal.com/serve-favicon
+126 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+127 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+128 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+129 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+130 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+131 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+132 info attempt registry request try #3 at 4:36:01 PM
+133 verbose request using bearer token for auth
+134 http request GET https://npm.paypal.com/body-parser
+135 info attempt registry request try #3 at 4:36:01 PM
+136 verbose request using bearer token for auth
+137 http request GET https://npm.paypal.com/debug
+138 info attempt registry request try #3 at 4:36:01 PM
+139 verbose request using bearer token for auth
+140 http request GET https://npm.paypal.com/cookie-parser
+141 info attempt registry request try #3 at 4:36:01 PM
+142 verbose request using bearer token for auth
+143 http request GET https://npm.paypal.com/pug
+144 info attempt registry request try #3 at 4:36:01 PM
+145 verbose request using bearer token for auth
+146 http request GET https://npm.paypal.com/morgan
+147 info attempt registry request try #3 at 4:36:01 PM
+148 verbose request using bearer token for auth
+149 http request GET https://npm.paypal.com/express
+150 info attempt registry request try #3 at 4:36:01 PM
+151 verbose request using bearer token for auth
+152 http request GET https://npm.paypal.com/serve-favicon
+153 silly get cb [ 304, undefined ]
+154 silly fetchPackageMetaData Error: failed to fetch from registry: https://npm.paypal.com/debug
+154 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:164:27
+154 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:53:8
+154 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+154 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:89:10
+154 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:103:12
+154 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+154 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:224:20)
+154 silly fetchPackageMetaData     at Request._callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:201:20)
+154 silly fetchPackageMetaData     at self.callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/request/request.js:187:22)
+154 silly fetchPackageMetaData     at emitOne (events.js:101:20)
+154 silly fetchPackageMetaData  error for debug@~2.6.9 Error: failed to fetch from registry: https://npm.paypal.com/debug
+154 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:164:27
+154 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:53:8
+154 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+154 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:89:10
+154 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:103:12
+154 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+154 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:224:20)
+154 silly fetchPackageMetaData     at Request._callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:201:20)
+154 silly fetchPackageMetaData     at self.callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/request/request.js:187:22)
+154 silly fetchPackageMetaData     at emitOne (events.js:101:20)
+155 silly get cb [ 304, undefined ]
+156 silly fetchPackageMetaData Error: failed to fetch from registry: https://npm.paypal.com/body-parser
+156 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:164:27
+156 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:53:8
+156 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+156 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:89:10
+156 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:103:12
+156 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+156 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:224:20)
+156 silly fetchPackageMetaData     at Request._callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:201:20)
+156 silly fetchPackageMetaData     at self.callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/request/request.js:187:22)
+156 silly fetchPackageMetaData     at emitOne (events.js:101:20)
+156 silly fetchPackageMetaData  error for body-parser@~1.18.2 Error: failed to fetch from registry: https://npm.paypal.com/body-parser
+156 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:164:27
+156 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:53:8
+156 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+156 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:89:10
+156 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:103:12
+156 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+156 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:224:20)
+156 silly fetchPackageMetaData     at Request._callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:201:20)
+156 silly fetchPackageMetaData     at self.callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/request/request.js:187:22)
+156 silly fetchPackageMetaData     at emitOne (events.js:101:20)
+157 silly get cb [ 304, undefined ]
+158 silly fetchPackageMetaData Error: failed to fetch from registry: https://npm.paypal.com/cookie-parser
+158 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:164:27
+158 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:53:8
+158 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+158 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:89:10
+158 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:103:12
+158 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+158 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:224:20)
+158 silly fetchPackageMetaData     at Request._callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:201:20)
+158 silly fetchPackageMetaData     at self.callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/request/request.js:187:22)
+158 silly fetchPackageMetaData     at emitOne (events.js:101:20)
+158 silly fetchPackageMetaData  error for cookie-parser@~1.4.3 Error: failed to fetch from registry: https://npm.paypal.com/cookie-parser
+158 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:164:27
+158 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:53:8
+158 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+158 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:89:10
+158 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:103:12
+158 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+158 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:224:20)
+158 silly fetchPackageMetaData     at Request._callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:201:20)
+158 silly fetchPackageMetaData     at self.callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/request/request.js:187:22)
+158 silly fetchPackageMetaData     at emitOne (events.js:101:20)
+159 silly fetchPackageMetaData Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+159 silly fetchPackageMetaData     at errnoException (dns.js:28:10)
+159 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+159 silly fetchPackageMetaData  error for pug@2.0.0-beta11 { Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+159 silly fetchPackageMetaData     at errnoException (dns.js:28:10)
+159 silly fetchPackageMetaData     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+159 silly fetchPackageMetaData   code: 'ENOTFOUND',
+159 silly fetchPackageMetaData   errno: 'ENOTFOUND',
+159 silly fetchPackageMetaData   syscall: 'getaddrinfo',
+159 silly fetchPackageMetaData   hostname: 'npm.paypal.com',
+159 silly fetchPackageMetaData   host: 'npm.paypal.com',
+159 silly fetchPackageMetaData   port: 443 }
+160 silly get cb [ 304, undefined ]
+161 silly fetchPackageMetaData Error: failed to fetch from registry: https://npm.paypal.com/morgan
+161 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:164:27
+161 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:53:8
+161 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+161 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:89:10
+161 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:103:12
+161 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+161 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:224:20)
+161 silly fetchPackageMetaData     at Request._callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:201:20)
+161 silly fetchPackageMetaData     at self.callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/request/request.js:187:22)
+161 silly fetchPackageMetaData     at emitOne (events.js:101:20)
+161 silly fetchPackageMetaData  error for morgan@~1.9.0 Error: failed to fetch from registry: https://npm.paypal.com/morgan
+161 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:164:27
+161 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:53:8
+161 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+161 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:89:10
+161 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:103:12
+161 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+161 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:224:20)
+161 silly fetchPackageMetaData     at Request._callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:201:20)
+161 silly fetchPackageMetaData     at self.callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/request/request.js:187:22)
+161 silly fetchPackageMetaData     at emitOne (events.js:101:20)
+162 silly get cb [ 304, undefined ]
+163 silly fetchPackageMetaData Error: failed to fetch from registry: https://npm.paypal.com/express
+163 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:164:27
+163 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:53:8
+163 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+163 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:89:10
+163 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:103:12
+163 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+163 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:224:20)
+163 silly fetchPackageMetaData     at Request._callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:201:20)
+163 silly fetchPackageMetaData     at self.callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/request/request.js:187:22)
+163 silly fetchPackageMetaData     at emitOne (events.js:101:20)
+163 silly fetchPackageMetaData  error for express@~4.15.5 Error: failed to fetch from registry: https://npm.paypal.com/express
+163 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:164:27
+163 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:53:8
+163 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+163 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:89:10
+163 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:103:12
+163 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+163 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:224:20)
+163 silly fetchPackageMetaData     at Request._callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:201:20)
+163 silly fetchPackageMetaData     at self.callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/request/request.js:187:22)
+163 silly fetchPackageMetaData     at emitOne (events.js:101:20)
+164 silly get cb [ 304, undefined ]
+165 silly fetchPackageMetaData Error: failed to fetch from registry: https://npm.paypal.com/serve-favicon
+165 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:164:27
+165 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:53:8
+165 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+165 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:89:10
+165 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:103:12
+165 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+165 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:224:20)
+165 silly fetchPackageMetaData     at Request._callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:201:20)
+165 silly fetchPackageMetaData     at self.callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/request/request.js:187:22)
+165 silly fetchPackageMetaData     at emitOne (events.js:101:20)
+165 silly fetchPackageMetaData  error for serve-favicon@~2.4.5 Error: failed to fetch from registry: https://npm.paypal.com/serve-favicon
+165 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:164:27
+165 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:53:8
+165 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+165 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:89:10
+165 silly fetchPackageMetaData     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:103:12
+165 silly fetchPackageMetaData     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+165 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:224:20)
+165 silly fetchPackageMetaData     at Request._callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:201:20)
+165 silly fetchPackageMetaData     at self.callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/request/request.js:187:22)
+165 silly fetchPackageMetaData     at emitOne (events.js:101:20)
+166 silly rollbackFailedOptional Starting
+167 silly rollbackFailedOptional Finishing
+168 silly runTopLevelLifecycles Finishing
+169 silly install printInstalled
+170 verbose stack Error: failed to fetch from registry: https://npm.paypal.com/debug
+170 verbose stack     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:164:27
+170 verbose stack     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/lib/cache/caching-client.js:53:8
+170 verbose stack     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+170 verbose stack     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:89:10
+170 verbose stack     at /Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:103:12
+170 verbose stack     at f (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/once/once.js:25:25)
+170 verbose stack     at CachingRegistryClient.<anonymous> (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:224:20)
+170 verbose stack     at Request._callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:201:20)
+170 verbose stack     at self.callback (/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/node_modules/request/request.js:187:22)
+170 verbose stack     at emitOne (events.js:101:20)
+171 verbose cwd /Users/siboyapati/go/flexton/class5/myapp
+172 error Darwin 16.7.0
+173 error argv "/Users/siboyapati/.nvm/versions/node/v6.11.0/bin/node" "/Users/siboyapati/.nvm/versions/node/v6.11.0/lib/node_modules/npm/bin/npm-cli.js" "install" "--scripts-prepend-node-path=auto"
+174 error node v6.11.0
+175 error npm  v3.10.10
+176 error failed to fetch from registry: https://npm.paypal.com/debug
+177 error If you need help, you may report this error at:
+177 error     <https://github.com/npm/npm/issues>
+178 verbose exit [ 1, true ]
