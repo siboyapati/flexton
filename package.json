@@ -1,0 +1,27 @@
+{
+  "name": "flexton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivab732/flexton.git"
+  },
+  "author": "Siva Boyapati <siboyapati@payapalcorp.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivab732/flexton/issues"
+  },
+  "homepage": "https://github.com/sivab732/flexton#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}

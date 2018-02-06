@@ -1,0 +1,14 @@
+{
+  "name": "webpack-overview",
+  "version": "1.0.0",
+  "description": "A project to learn how to work with webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Eve Porcello",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}

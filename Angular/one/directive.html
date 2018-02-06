@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<body>
+
+<div ng-app="myApp" helloworld></div>
+
+<helloworld></helloworld>
+
+
+
+<script>
+    var app = angular.module("myApp", []);
+
+
+
+    app.directive("helloworld", function() {
+        return {
+
+            template : "I was made in a directive constructor!"
+        };
+    });
+</script>
+
+</body>
+</html>
+
+
+<!--ng-repeat-->
+<!--ng-controller-->
+<!--ng-app-->
+
+element
+attribute
+class
+comment

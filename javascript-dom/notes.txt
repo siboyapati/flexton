@@ -1,0 +1,13 @@
+Finding HTML Elements
+Method	Description
+document.getElementById(id)	//Find an element by element id
+document.getElementsByTagName(name)	//Find elements by tag name
+document.getElementsByClassName(name) //	Find elements by class name
+
+
+changing the html element
+
+element.innerHTML =  new html content	//Change the inner HTML of an element
+element.attribute = new value	//Change the attribute value of an HTML element
+element.setAttribute(attribute, value)	//Change the attribute value of an HTML element
+element.style.property = new style	//Change the style of an HTML element

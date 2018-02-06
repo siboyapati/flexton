@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<body ng-app="myApp" >
+
+<p>Try to change the names.</p>
+
+<div ng-controller="myCtrl" ng-init="names=['Jani','Hege','Kai']">
+    First Name: <input type="text" ng-model="firstName"><br>
+    Last Name: <input type="text" ng-model="lastName"><br>
+    <br>
+    {{firstName}}
+    <hr>
+    <p>Looping with ng-repeat:</p>
+    <ul>
+        <li ng-repeat="x in names">
+            {{ x }}
+        </li>
+    </ul>
+    <hr>
+    <div ng-init="countryNames=[
+            {name:'Jani',country:'Norway'},
+            {name:'Hege',country:'Sweden'},
+            {name:'Kai',country:'Denmark'}]">
+        <ul>
+            <li ng-repeat="x in countryNames">
+                {{ x.name + ', ' + x.country }}
+            </li>
+        </ul>
+    </div>
+
+
+</div>
+
+
+<div ng-controller="myCtrl2">
+
+    {{firstName}}
+
+</div>
+
+
+<script>
+    //routing
+    var app = angular.module('myApp', []);
+
+
+    app.controller('myCtrl', function ($scope) {
+        $scope.firstName = "John";
+        $scope.lastName = "Doe";
+    });
+
+    app.controller('myCtrl2', function ($scope) {
+        $scope.firstName = "flexton";
+        $scopr.lastName ="Collabrate";
+
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#hide").click(function () {
+                $("p").hide();
+            });
+
+            $("#btn").click(function () {
+                $("p").hide(10000);
+            });
+
+            $("#show").click(function () {
+                $("p").show();
+            });
+
+
+
+            $(".mycls button").click(function(){
+                $(".mycls p").toggle();
+            });
+        });
+    </script>
+</head>
+<body>
+
+<p>If you click on the "Hide" button, I will disappear.</p>
+
+<button id="hide">Hide</button>
+<button id="show">Show</button>
+<button id="btn">Hide Slow</button>
+<hr>
+
+<div class="mycls">
+    <button>Toggle between hiding and showing the paragraphs</button>
+
+    <p>This is a paragraph with little content.</p>
+    <p>This is another small paragraph.</p>
+
+</div>
+
+
+</body>
+</html>

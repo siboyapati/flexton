@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+<h2>My First Page</h2>
+
+<p id="demo"></p>
+
+<p id="p2">Hello World!</p>
+
+<h1 id="id1">My Heading 1</h1>
+
+<button type="button"
+        onclick="change()">
+    Click Me!
+</button>
+
+<style>
+    body{
+        margin: 20px;
+        padding: 30px;
+    }
+</style>
+
+<script>
+
+    function change() {
+        debugger;
+        document.getElementById('id1').style.color = 'red'
+    }
+
+    document.getElementById("demo").innerHTML = "Hello World!";
+    document.getElementById("p2").style.color = "blue";
+</script>
+
+</body>
+</html>
+
+

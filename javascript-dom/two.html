@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to display the date.</p>
+
+<button onclick="displayDate()">The time is?</button>
+
+<script>
+    function displayDate() {
+        document.getElementById("demo").innerHTML = Date();
+    }
+
+    function myFunction() {
+        var x = document.getElementById("fname");
+        x.value = x.value.toUpperCase();
+    }
+
+    function mOver(obj) {
+        obj.innerHTML = "Thank You"
+    }
+
+    function mOut(obj) {
+        obj.innerHTML = "Mouse Over Me"
+    }
+
+
+    document.getElementById("myBtn").addEventListener("click", myFunction);
+
+    function myFunction() {
+        alert("Hello World!");
+    }
+
+
+    document.getElementById("myBtn").addEventListener("mouseover", myFunction);
+    document.getElementById("myBtn").addEventListener("mouseover", myFunction);
+
+
+</script>
+//onmouseout="mOut(this)" onmouseover="mOver(this)"
+<p id="demo" ></p>
+Enter your name: <input type="text" id="fname" onchange="myFunction()">
+<hr>
+<div>
+    <p>Add event listners</p>
+    <button id="myBtn">Try it</button>
+</div>
+</body>`
+</html>

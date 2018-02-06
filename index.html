@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+
+<body>
+<div ng-app="myModule" ng-controller="myController">
+    The value of counter is {{counter}}
+</div>
+<script src="angular.js"></script>
+<script type="text/javascript">
+    var app = angular.module('myModule', []);
+    app.controller('myController', function ($scope) {
+        $scope.counter = 0;
+        $scope.$watch('counter', function () {
+            $scope.counter++;
+        });
+    });
+</script>
+</body>
+</html>
