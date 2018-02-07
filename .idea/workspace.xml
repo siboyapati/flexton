@@ -2,33 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a687441-f588-45ae-bb7f-85fbaba7fa32" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Angular/one/directive.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Angular/one/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Angular/one/three.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/file.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javascript-dom/notes.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javascript-dom/one.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javascript-dom/two.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/Animation/one.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/Animation/slidedown.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/Animation/two.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/five.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/html/one.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/one.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/readme.MD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/three.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/todolist.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nodejs/express-examples/one.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nodejs/express-examples/three.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nodejs/express-examples/two.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nodejs/hello.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nodejs/ls2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nodejs/three/module1.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nodejs/three/module2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test2.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/target-githubprofiles" afterPath="$PROJECT_DIR$/target-githubprofiles" />
       <change beforePath="$PROJECT_DIR$/token-based-auth-frontend" afterPath="$PROJECT_DIR$/token-based-auth-frontend" />
@@ -79,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+              <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -89,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -262,6 +235,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,7 +247,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -383,11 +356,13 @@
       <workItem from="1517767461984" duration="691000" />
       <workItem from="1517768168758" duration="5625000" />
       <workItem from="1517891899661" duration="3343000" />
+      <workItem from="1517959649598" duration="252000" />
+      <workItem from="1518025692294" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125219000" />
+    <option name="totallyTimeSpent" value="125492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="23" width="1252" height="877" extended-state="0" />
@@ -397,12 +372,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3657289" sideWeight="0.50289434" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35421994" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35421994" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3529412" sideWeight="0.49710566" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33120206" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3529412" sideWeight="0.49710566" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33120206" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1065,7 +1040,7 @@
     <entry file="file://$PROJECT_DIR$/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -1073,7 +1048,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
