@@ -1,0 +1,17 @@
+{
+  "name": "target",
+  "description": "ashok assignment",
+  "main": "",
+  "authors": [
+    "Ashok <ashokb@paypalcorp.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

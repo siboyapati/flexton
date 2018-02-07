@@ -1,0 +1,109 @@
+<div>
+    {{error}}
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xs-12 col-sm-3">
+            <div class="card" style="width: 20rem;">
+                <ul class="list-group list-group-flush" ng-repeat="user in userList">
+                    <li class="list-group-item">
+                        <div class="row" ng-click="getProfileInfo(user)">
+                            <div class="col-xs-6 contact-content">
+                                <img ng-src="{{user.avatar_url}}" class="rounded float-left"
+                                     style="width:40px;height:40px" alt="images">
+                            </div>
+                            <div class="col-xs-6 contact-content float-right">
+                                {{user.login}}
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-8 offset-sm-1" ng-show="getUserInfo">
+            <div class="row">
+                <div class="col-sm-12 col-sm-12">
+                    <img ng-src="{{getUserInfo.avatar_url}}" class="rounded float-left" style="width:150px;height:150px"
+                         alt="images">
+                </div>
+                <div class="col-sm-12 col-sm-12">
+                    <span class="profile-content-label">Name:</span>
+                    <span class="profile-content">{{getUserInfo.name}}</span>
+                </div>
+                <div class="col-sm-12 col-sm-12">
+                    <span class="profile-content-label">Bio:</span>
+                    <span class="profile-content">{{getUserInfo.bio}}</span>
+                </div>
+                <div class="col-sm-12 col-sm-12">
+                    <span class="profile-content-label">Organization:</span>
+                    <span class="profile-content">{{getUserInfo.company}}</span>
+                </div>
+                <div class="col-sm-12 col-sm-12">
+                    <span class="profile-content-label">Joined on: </span>
+                    <span class="profile-content">{{getUserInfo.created_at| date:'medium'}}</span>
+                </div>
+                <div class="col-sm-12 col-sm-12">
+                    <span class="profile-content-label">Email: </span>
+                    <span class="profile-content">{{getUserInfo.email}}</span>
+                </div>
+                <div class="col-sm-12 col-sm-12">
+                    <span class="profile-content-label">Location:</span>
+                    <span class="profile-content">{{getUserInfo.location}}</span>
+                </div>
+                <div class="col-sm-12 col-sm-12">
+                    <span class="profile-content-label">Total number of contributions in the last year:</span>
+                    <span class="profile-content">{{listOfReposContributedTo.total}}</span>
+                </div>
+            </div>
+
+            <div class="row repolist">
+                <p class="head-repo">List of repos contributed to:</p>
+            </div>
+            <div class="row repolist">
+
+                <div class="row">
+                    <div class="card">
+                        <ul class="list-group list-group-flush" ng-repeat="repo in listOfReposContributedTo.arr">
+                            <li class="list-group-item">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <span class="profile-content-label ">{{repo}}</span>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row repolist">
+                <p class="head-repo">List of their repos:</p>
+                <hr>
+                <div class="card">
+                    <ul class="list-group list-group-flush" ng-repeat="repo in getUserRepos">
+                        <li class="list-group-item">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <span class="profile-content-label ">Repo Name:</span>
+                                    <span class="profile-content ">{{repo.name}}</span>
+                                </div>
+                                <div class="col-sm-12">
+                                    <span class="profile-content-label ">Description:</span>
+                                    <span class="profile-content ">{{repo.description}}</span>
+                                </div>
+                                <div class="col-sm-6">
+                                    <span class="profile-content-label ">Language:</span>
+                                    <span class="profile-content ">{{repo.language}}</span>
+                                </div>
+                                <div class="col-sm-6 text-right ">
+                                    <span class="profile-content-label ">Created on:</span>
+                                    <span class="profile-content ">{{repo.created_at | date:'medium'}}</span>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

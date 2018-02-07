@@ -1,0 +1,58 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+}
+
+a {
+  color: #de4f4f;
+  text-decoration: none;
+}
+
+.content{
+  margin: 30px;
+}
+
+.contact-content{
+  margin: 5px;
+}
+
+.profile-content-label{
+  font-family: 'Nunito', sans-serif;
+  padding: 5px;
+  font-size: 15px;
+  line-height: 1.42857143;
+  background-color: #ffffff;
+  font-weight: bold;
+}
+
+.profile-content{
+  font-family: 'Nunito', sans-serif;
+  padding: 5px;
+  font-size: 15px;
+  line-height: 1.42857143;
+  background-color: #ffffff
+}
+
+.panel-default {
+  border-color: #dddddd;
+}
+.panel {
+  margin-bottom: 21px;
+  background-color: #ffffff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.panel-body {
+  margin: 15px;
+}
+
+.repolist{
+  margin-top: 30px;
+  margin :10px;
+}
+.head-repo{
+  color: #de4f4f;
+}

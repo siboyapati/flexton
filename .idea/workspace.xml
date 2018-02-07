@@ -214,7 +214,7 @@
     <handled-path value="$PROJECT_DIR$/token-based-auth-frontend/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="35" />
+    <option name="x" value="37" />
     <option name="y" value="23" />
     <option name="width" value="1252" />
     <option name="height" value="877" />
@@ -235,7 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,6 +246,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -358,15 +358,15 @@
       <workItem from="1517891899661" duration="3343000" />
       <workItem from="1517959649598" duration="252000" />
       <workItem from="1518025692294" duration="21000" />
+      <workItem from="1518042357876" duration="89000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125492000" />
+    <option name="totallyTimeSpent" value="125581000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="23" width="1252" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="37" y="23" width="1252" height="877" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19577579" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
