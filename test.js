@@ -1,14 +1,42 @@
-var data = [0,3,0];
-function test(data, elem) {
-    if (typeof data == "number") {
-        return (!elem || data > elem)?data:elem;
-    } else {
-        for (var i=0; i<data.length; i++) {
-            elem = test(data[i], elem);
-        }
-        return elem;
+var isPal = function(low, high, s){
+
+    if (s[low] != s[high] || low < 0 || high >= s.length) {
+        return "";
     }
+    while (low >= 0 && high < s.length && s[low] === s[high]) {
+        low--;
+        high++;
+    }
+    return s.substring(low + 1, high);
 }
-console.log(data.length)
-var result = test(data);
-console.log(result);
+
+
+var longestPalindrome = function(s) {
+
+    if(s.length == 0 || s.length ==1){
+        return s;
+    }
+
+    var largest = 1;
+    var len = "";
+    var mx = "";
+
+    for(var i =1; i<s.length; i++){
+
+        len = isPal(i-1,i,s);
+        if(len.length > largest){
+            mx = len;
+            largest = mx.length;
+        }
+        len = isPal(i-1,i+1,s);
+        if(len.length > largest){
+            mx = len;
+            largest = mx.length;
+        }
+    }
+    return mx;
+
+};
+
+var str = "ccc";
+console.log(longestPalindrome(str));

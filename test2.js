@@ -1,37 +1,39 @@
-// Input: ABC
-// Output: 2
-// Input: AACECAAAA
-// Output: 2
+var strStr = function (haystack, needle) {
 
+    var hlen = haystack.length;
+    var nlen = needle.length;
 
-var maxPalindrome = function (A) {
-
-    if (A.length == 0 || A.length == 1) {
-        return A.length;
+    if (hlen == 0 && nlen == 0) {
+        return 0;
     }
-    var max = 1;
-    for (var i = 1; i < A.length; i++) {
+    if (nlen == 0) {
+        return 0;
+    }
+    var index = -1, k;
 
-        var len = isPal(i - 1, i + 1, A);
-        if (len > max) {
-            max = len;
+    for (var i = 0; i < hlen; i++) {
+        index = -1;
+        k = 0;
+
+        if (i + nlen > hlen) {
+
+            continue;
         }
-        len = isPal(i - 1, i, A);
-        if (len > max) {
-            max = len;
+        while (needle[k] === haystack[i + k] && i + k < hlen) {
+
+            if (index == -1) {
+                index = i;
+            }
+            if (k == nlen - 1) {
+                return index;
+            }
+            k++;
         }
     }
-    return A.length - max;
+    return index;
+
 }
 
-function isPal(start, end, A) {
-    while (start >= 0 && end < A.length && A[start] == A[end]) {
-        start--;
-        end++;
-    }
-    return end - start - 1;
-}
+var haystack = "a", needle = "a";
 
-console.log(maxPalindrome("ABC"));
-
-banana
+console.log(strStr(haystack, needle))

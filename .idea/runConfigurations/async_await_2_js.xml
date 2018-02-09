@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="async-await-2.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/Cellar/node/8.9.1/bin/node" path-to-js-file="async-await-2.js" working-dir="$PROJECT_DIR$/NodeJS-Tutorials/One">
+    <method />
+  </configuration>
+</component>
