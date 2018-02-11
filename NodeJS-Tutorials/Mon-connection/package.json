@@ -1,0 +1,19 @@
+{
+  "name": "mongoconnection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siva Boyapati <siboyapati@payapalcorp.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2",
+    "mongoose": "^5.0.4",
+    "mongoskin": "^2.1.0",
+    "morgan": "^1.9.0"
+  }
+}
