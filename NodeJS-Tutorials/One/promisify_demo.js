@@ -20,17 +20,23 @@
 
 var fs = require('fs');
 
+console.log(process.argv)
+
 let [executable, absPath, target, ...message] = process.argv;
-var x = process.argv;
-console.log('message',message);
-console.log('x',x); /// executable, absPath ,
+// var x = process.argv;
+// console.log(target);
+// console.log('message',message);
+// console.log('x',x); /// executable, absPath ,
 
-// fs.readFile('./dummy.txt', 'utf8', function (err, contents) {
-//     console.log(contents);
-// });
+
+
+// console.log('one')
+fs.readFile(target, 'utf8', function (err, contents) {
+    console.log(contents);
+});
 //
-// var contents = fs.readFileSync('./dummy.txt', 'utf8');
-// console.log(contents);
-
-
-console.log('after calling readFile');
+// // var contents = fs.readFileSync('./dummy.txt', 'utf8');
+// // console.log(contents);
+//
+//
+// console.log('after calling readFile');

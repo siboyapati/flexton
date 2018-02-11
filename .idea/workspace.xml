@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a687441-f588-45ae-bb7f-85fbaba7fa32" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/async_await_2_js.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/One/3.stats.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/One/4.read_dir.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/One/5.http_client_request.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/One/arrow_this.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/One/async-await-2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/One/async-await.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/One/dummy.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/One/promisify_demo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/two/2.passthrough.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/two/3.postdata.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/two/one-http-switching.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/two/passthrough.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/test.js" afterPath="$PROJECT_DIR$/test.js" />
-      <change beforePath="$PROJECT_DIR$/test2.js" afterPath="$PROJECT_DIR$/test2.js" />
+      <change beforePath="$PROJECT_DIR$/NodeJS-Tutorials/One/arrow_this.js" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/One/arrow_this.js" />
+      <change beforePath="$PROJECT_DIR$/NodeJS-Tutorials/One/async-await.js" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/One/async-await.js" />
+      <change beforePath="$PROJECT_DIR$/NodeJS-Tutorials/One/promisify_demo.js" afterPath="$PROJECT_DIR$/NodeJS-Tutorials/One/promisify_demo.js" />
       <change beforePath="$PROJECT_DIR$/token-based-auth-frontend" afterPath="$PROJECT_DIR$/token-based-auth-frontend" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -33,47 +21,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/One/app.js">
+        <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/todocomplete/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="3" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+            <state relative-caret-position="136">
+              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="10" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/two/index.html">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular/Angular-Routing-Example/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="680">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/chat/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="7" lean-forward="false" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/chat/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dynamo-put.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/amazon/dynamo-put.js">
+      <file leaf-file-name="1basic.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/cookie/1basic.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -82,51 +50,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dynamo-scan.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/amazon/dynamo-scan.js">
+      <file leaf-file-name="basic.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter8/chapter8/crud/basic.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="s3-getstream.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/amazon/s3-getstream.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Angular/Angular-Routing-Example/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/docker/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/docker/app/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/two/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            <state relative-caret-position="169">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -162,6 +100,7 @@
       <find>userList</find>
       <find>document.write</find>
       <find>jwt</find>
+      <find>static</find>
     </findStrings>
     <replaceStrings>
       <replace>emailList</replace>
@@ -176,13 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jquery/one.html" />
-        <option value="$PROJECT_DIR$/jquery/two.html" />
-        <option value="$PROJECT_DIR$/jquery/three.html" />
-        <option value="$PROJECT_DIR$/jquery/todolist.html" />
-        <option value="$PROJECT_DIR$/jquery/Animation/one.html" />
-        <option value="$PROJECT_DIR$/jquery/Animation/slidedown.html" />
-        <option value="$PROJECT_DIR$/Angular/one/index.html" />
         <option value="$PROJECT_DIR$/Angular/one/two.html" />
         <option value="$PROJECT_DIR$/Angular/one/directive.html" />
         <option value="$PROJECT_DIR$/nodejs/express/one.js" />
@@ -205,13 +137,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/test2.js" />
-        <option value="$PROJECT_DIR$/NodeJS-Tutorials/One/arrow_this.js" />
         <option value="$PROJECT_DIR$/NodeJS-Tutorials/One/dummy.txt" />
-        <option value="$PROJECT_DIR$/NodeJS-Tutorials/One/promisify_demo.js" />
         <option value="$PROJECT_DIR$/NodeJS-Tutorials/One/3.stats.js" />
         <option value="$PROJECT_DIR$/NodeJS-Tutorials/One/4.read_dir.js" />
         <option value="$PROJECT_DIR$/NodeJS-Tutorials/One/5.http_client_request.js" />
-        <option value="$PROJECT_DIR$/NodeJS-Tutorials/One/async-await.js" />
         <option value="$PROJECT_DIR$/NodeJS-Tutorials/One/async-await-2.js" />
         <option value="$PROJECT_DIR$/NodeJS-Tutorials/two/one.js" />
         <option value="$PROJECT_DIR$/NodeJS-Tutorials/two/one-http-switching.js" />
@@ -227,6 +156,16 @@
         <option value="$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/two/app.js" />
         <option value="$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/chat/index.html" />
         <option value="$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/chat/app.js" />
+        <option value="$PROJECT_DIR$/Angular/Angular-Routing-Example/scripts.js" />
+        <option value="$PROJECT_DIR$/Angular/Angular-Routing-Example/pages/contact.html" />
+        <option value="$PROJECT_DIR$/Angular/Angular-Routing-Example/pages/home.html" />
+        <option value="$PROJECT_DIR$/Angular/Angular-Routing-Example/pages/about.html" />
+        <option value="$PROJECT_DIR$/NodeJS-Tutorials/One/arrow_this.js" />
+        <option value="$PROJECT_DIR$/NodeJS-Tutorials/One/promisify_demo.js" />
+        <option value="$PROJECT_DIR$/NodeJS-Tutorials/One/async-await.js" />
+        <option value="$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/approute/1verbs.js" />
+        <option value="$PROJECT_DIR$/Angular/Angular-Routing-Example/script.js" />
+        <option value="$PROJECT_DIR$/Angular/Angular-Routing-Example/index.html" />
       </list>
     </option>
   </component>
@@ -249,6 +188,21 @@
     <handled-path value="$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/chat/node_modules" />
     <handled-path value="$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/two/node_modules" />
     <handled-path value="$PROJECT_DIR$/Webpack/Exercise Files/Ch01/01_03/completed/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter10/chapter10/loop/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter10/chapter10/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter12/chapter12/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter4/chapter4/1hello/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter4/chapter4/folderbased/indexbased2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter4/chapter4/global/rimrafdemo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter4/chapter4/json/folderbased/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter4/chapter4/mainproperty/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter4/chapter4/npm/install/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter4/chapter4/package.json/foo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter4/chapter4/popular/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter6/chapter6/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter8/chapter8/node_modules" />
+    <handled-path value="$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/node_modules" />
     <handled-path value="$PROJECT_DIR$/class2/one/node_modules" />
     <handled-path value="$PROJECT_DIR$/class3/four/node_modules" />
     <handled-path value="$PROJECT_DIR$/class3/one/node_modules" />
@@ -263,10 +217,10 @@
     <handled-path value="$PROJECT_DIR$/token-based-auth-frontend/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
+    <option name="x" value="33" />
     <option name="y" value="23" />
-    <option name="width" value="1720" />
-    <option name="height" value="1417" />
+    <option name="width" value="1407" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -292,6 +246,58 @@
             <path>
               <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
               <item name="flexton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexton" type="462c0819:PsiDirectoryNode" />
+              <item name="beginning-nodejs-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexton" type="462c0819:PsiDirectoryNode" />
+              <item name="beginning-nodejs-code" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexton" type="462c0819:PsiDirectoryNode" />
+              <item name="beginning-nodejs-code" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexton" type="462c0819:PsiDirectoryNode" />
+              <item name="beginning-nodejs-code" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="cookie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexton" type="462c0819:PsiDirectoryNode" />
+              <item name="beginning-nodejs-code" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexton" type="462c0819:PsiDirectoryNode" />
+              <item name="beginning-nodejs-code" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexton" type="462c0819:PsiDirectoryNode" />
+              <item name="beginning-nodejs-code" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexton" type="462c0819:PsiDirectoryNode" />
+              <item name="NodeJS-Tutorials" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,27 +341,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.server.js">
-    <configuration name="2.passthrough.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="2.passthrough.js" working-dir="$PROJECT_DIR$/NodeJS-Tutorials/two" />
-    <configuration name="3.postdata.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="3.postdata.js" working-dir="$PROJECT_DIR$/NodeJS-Tutorials/two" />
+  <component name="RunManager" selected="Node.js.app.js (1)">
+    <configuration name="3.stats.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="3.stats.js" working-dir="$PROJECT_DIR$/NodeJS-Tutorials/One" />
+    <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/todocomplete" />
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/angularstart" />
     <configuration name="async-await.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v9.2.0/bin/node" path-to-js-file="async-await.js" working-dir="$PROJECT_DIR$/NodeJS-Tutorials/One" />
-    <configuration name="one-http-switching.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="one-http-switching.js" working-dir="$PROJECT_DIR$/NodeJS-Tutorials/two" />
-    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/NodeJS-Tutorials/JWT" />
+    <configuration name="promisify_demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="promisify_demo.js" working-dir="$PROJECT_DIR$/NodeJS-Tutorials/One" />
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.async-await-2.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.promisify_demo.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.async-await.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.one-http-switching.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.2.passthrough.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.3.postdata.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.server.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.3.stats.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.async-await-2.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.3.postdata.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.2.passthrough.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.one-http-switching.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.async-await-2.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.3.stats.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.async-await.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.promisify_demo.js" />
       </list>
     </recent_temporary>
   </component>
@@ -416,26 +422,28 @@
       <workItem from="1518116259360" duration="4146000" />
       <workItem from="1518129378751" duration="1472000" />
       <workItem from="1518201012824" duration="9005000" />
+      <workItem from="1518220219432" duration="9807000" />
+      <workItem from="1518313830571" duration="117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142611000" />
+    <option name="totallyTimeSpent" value="152535000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="23" width="1720" height="1417" extended-state="0" />
+    <frame x="33" y="23" width="1407" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19070041" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21645021" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3524962" sideWeight="0.51206595" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2685422" sideWeight="0.4938199" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3524962" sideWeight="0.4938199" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3524962" sideWeight="0.48793408" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31713554" sideWeight="0.48793408" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286445" sideWeight="0.4902884" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.4902884" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -718,84 +726,120 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/NodeJS-Tutorials/One/promisify_demo.js</url>
-          <line>27</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="132" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/NodeJS-Tutorials/One/promisify_demo.js</url>
-          <line>35</line>
-          <properties lambdaOrdinal="-1" />
+          <line>41</line>
           <option name="timeStamp" value="133" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/NodeJS-Tutorials/One/promisify_demo.js</url>
-          <line>28</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/NodeJS-Tutorials/One/async-await-2.js</url>
           <line>16</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/NodeJS-Tutorials/two/3.postdata.js</url>
           <line>24</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="136" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/NodeJS-Tutorials/two/3.postdata.js</url>
           <line>20</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="137" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/NodeJS-Tutorials/two/3.postdata.js</url>
           <line>52</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/NodeJS-Tutorials/two/3.postdata.js</url>
           <line>59</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="148" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/NodeJS-Tutorials/JWT/server.js</url>
           <line>56</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/NodeJS-Tutorials/JWT/server.js</url>
           <line>62</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/NodeJS-Tutorials/JWT/server.js</url>
           <line>69</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/NodeJS-Tutorials/JWT/server.js</url>
           <line>21</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="152" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/NodeJS-Tutorials/JWT/server.js</url>
           <line>41</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="153" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/NodeJS-Tutorials/One/promisify_demo.js</url>
+          <line>34</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/NodeJS-Tutorials/One/promisify_demo.js</url>
+          <line>32</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/NodeJS-Tutorials/One/async-await.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/NodeJS-Tutorials/One/async-await.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/NodeJS-Tutorials/One/async-await.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/NodeJS-Tutorials/One/async-await.js</url>
+          <line>32</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/NodeJS-Tutorials/One/async-await.js</url>
+          <line>36</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/NodeJS-Tutorials/One/async-await.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/todocomplete/app.js</url>
+          <line>28</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/todocomplete/app.js</url>
+          <line>36</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/todocomplete/app.js</url>
+          <line>48</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/todocomplete/app.js</url>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="154" />
+      <option name="time" value="168" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
@@ -860,373 +904,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/targetgithubprofiles-angular/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/targetgithubprofiles-angular/app/partials/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/targetgithubprofiles-angular/app/js/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/targetgithubprofiles-angular/app/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/targetgithubprofiles-angular/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/targetgithubprofiles-angular/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/targetgithubprofiles-angular/routes/api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-337">
-          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/hello.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/ls.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/ls2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/express-examples/two.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/three/module2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/three/module1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/express-examples/three.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/express-examples/one.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-ex-gen/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-ex-gen/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-ex-gen/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-ex-gen/routes/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/arrow_this.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/dummy.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/promisify_demo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="38" lean-forward="false" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/3.stats.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/4.read_dir.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/async-await.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/async-await-2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="43" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/two/destination.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/two/passthrough.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/5.http_client_request.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/two/one-http-switching.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/two/2.passthrough.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/two/dest.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/two/3.postdata.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="59" column="24" lean-forward="true" selection-start-line="58" selection-start-column="59" selection-end-line="59" selection-end-column="24" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <marker date="1518208756000" expanded="true" signature="354:491" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/JWT/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/JWT/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/JWT/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/One/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/One/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="65" lean-forward="false" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/One/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="3" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/two/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/two/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/chat/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="7" lean-forward="false" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/SocketIO/chat/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/amazon/dynamo-put.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1234,7 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1242,7 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1250,14 +929,351 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/docker/app/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/9781484201886.jpg" />
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/README.md" />
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter10/chapter10/loop/async.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/static/public/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/static/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/static/1basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/two/2.passthrough.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/compression/compress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/cookie/2show.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/cookie/3parsed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/cookie/4clear.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/cookie/5sign.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/cookiesession/counter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/router/basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/serveindex/basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/static/2static.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter8/chapter8/odm/connecting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter8/chapter8/update/1save.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter8/chapter8/update/2update.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular/Angular-Routing-Example/pages/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular/Angular-Routing-Example/pages/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular/Angular-Routing-Example/pages/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/arrow_this.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/dummy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/promisify_demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/async-await.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1518291583000" expanded="true" signature="3:588" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/async-await-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/3.stats.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/4.read_dir.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="16" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/One/5.http_client_request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-423">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS-Tutorials/two/3.postdata.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="59" column="24" lean-forward="true" selection-start-line="58" selection-start-column="59" selection-end-line="59" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/approute/1verbs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/approute/2route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/approute/3path.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/approute/4param.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/approute/5paramload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/bodyparser/basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/angularstart/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/todocomplete/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/todocomplete/public/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/angularstart/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/todocomplete/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="10" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular/Angular-Routing-Example/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter7/chapter7/cookie/1basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter8/chapter8/crud/basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular/Angular-Routing-Example/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
