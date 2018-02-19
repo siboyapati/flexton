@@ -1,5 +1,40 @@
-<div class="jumbotron text-center">
-    <h1>Home Page</h1>
+<div class="container" style="padding: 30px" ng-init="getAll()">
+    <form>
+        <div class="form-group">
+            <input type="text" class="form-control" id="name" ng-model="books.name"
+                   placeholder="Enter name">
+        </div>
+        <div class="form-group">
+            <input type="author" class="form-control" id="author" placeholder="author" ng-model="books.author">
+        </div>
+        <div class="form-group">
+            <input type="isbn" class="form-control" ng-model="books.isbn" id="isbn" placeholder="isbn">
+        </div>
+        <button type="submit" class="btn btn-primary" ng-click="addBooks()">Submit</button>
+    </form>
 
-    <p>{{ message }}</p>
+
+    <div>
+        <div class="panel panel-default" ng-repeat="b in allBooks">
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-sm-6">
+                        {{b.name}}
+                    </div>
+                    <div class="col-sm-6">
+                        {{b.author}}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        {{b.isbn}}
+                    </div>
+                    <div class="col-sm-6">
+                        <button ng-click="delete(b._id)">delete</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+

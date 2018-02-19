@@ -19,16 +19,52 @@ app.config(function ($routeProvider) {
         });
 });
 
-app.factory('Email', ['$http', function ($http) {
+app.factory('BooksFactory', ['$http', function ($http) {
     return {
         get: function () {
-            return $http.get('/emails');
+            return $http.get('/api/books/');
+        },
+        post: function (body) {
+            return $http.post('/api/books', body);
+        },
+        update: function (id, body) {
+            return $http.put('/api/books/:' + id, body);
+        },
+        delete: function (id) {
+            return $http.delete('/api/books/:' + id);
         }
     }
 }]);
 
-app.controller('mainController', function ($scope) {
-    $scope.message = 'Everyone come and see how good I look!';
+app.controller('mainController', function ($scope, BooksFactory) {
+
+    $scope.addBooks = function () {
+        BooksFactory.post($scope.books).then(function (response) {
+            $scope.books = {};
+            $scope.getAll();
+        })
+    }
+
+    $scope.getAll = function () {
+        BooksFactory.get().then(function (books) {
+            $scope.allBooks = books.data;
+        })
+    }
+
+    $scope.updata = function (id, data) {
+        BooksFactory.updata(id, data).then(function (data) {
+            $scope.getAll();
+        })
+    }
+
+    $scope.delete = function (id) {
+        BooksFactory.delete(id).then(function (data) {
+            $scope.getAll();
+        })
+    }
+
+    $scope.getAll();
+
 });
 
 app.controller('aboutController', function ($scope, Email) {
@@ -42,7 +78,6 @@ app.controller('aboutController', function ($scope, Email) {
             $scope.error = error;
         });
     }
-
 
 
 });

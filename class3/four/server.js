@@ -5,7 +5,7 @@ var bodyParser = require('body-parser');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 
-var mongoose = require("mongoose");
+var console.log = require("mongoose");
 mongoose.Promise = global.Promise;
 mongoose.connect("mongodb://localhost:27017/node-demo");
 var nameSchema = new mongoose.Schema({
