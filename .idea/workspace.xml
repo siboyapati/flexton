@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a687441-f588-45ae-bb7f-85fbaba7fa32" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/angular/angular-route.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/angular/angular.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/bootstrap/css/bootstrap-theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/bootstrap/css/bootstrap-theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/bootstrap/css/bootstrap-theme.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/bootstrap/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/bootstrap/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/bootstrap/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/bootstrap/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/bootstrap/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BooksApp/public/vendor/jquery/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React-Tutorials/React-webpack3-setup/.babelrc" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/class3/four/server.js" afterPath="$PROJECT_DIR$/class3/four/server.js" />
-      <change beforePath="$PROJECT_DIR$/class5/myapp/Model/Email.js" afterPath="$PROJECT_DIR$/class5/myapp/Model/BooksModel.js" />
-      <change beforePath="$PROJECT_DIR$/class5/myapp/app.js" afterPath="$PROJECT_DIR$/class5/myapp/app.js" />
-      <change beforePath="$PROJECT_DIR$/class5/myapp/bin/www" afterPath="$PROJECT_DIR$/class5/myapp/bin/www" />
-      <change beforePath="$PROJECT_DIR$/class5/myapp/public/javascripts/scripts.js" afterPath="$PROJECT_DIR$/class5/myapp/public/javascripts/scripts.js" />
-      <change beforePath="$PROJECT_DIR$/class5/myapp/public/pages/home.html" afterPath="$PROJECT_DIR$/class5/myapp/public/pages/home.html" />
-      <change beforePath="$PROJECT_DIR$/class5/myapp/routes/index.js" afterPath="$PROJECT_DIR$/class5/myapp/routes/index.js" />
-      <change beforePath="$PROJECT_DIR$/class5/myapp/routes/users.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/test.js" afterPath="$PROJECT_DIR$/test.js" />
       <change beforePath="$PROJECT_DIR$/token-based-auth-frontend" afterPath="$PROJECT_DIR$/token-based-auth-frontend" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -51,18 +20,18 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/class5/myapp/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/class5/myapp/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -73,6 +42,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="193">
               <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Webpack/Exercise Files/Ch02/02_04/completed/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -121,6 +100,7 @@
       <find>mongoose</find>
       <find>index</find>
       <find>static</find>
+      <find>stati</find>
     </findStrings>
     <replaceStrings>
       <replace>emailList</replace>
@@ -245,9 +225,9 @@
     <handled-path value="$PROJECT_DIR$/token-based-auth-frontend/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="30" />
+    <option name="x" value="37" />
     <option name="y" value="23" />
-    <option name="width" value="1410" />
+    <option name="width" value="1403" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -266,6 +246,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,32 +257,67 @@
             <path>
               <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
               <item name="flexton" type="462c0819:PsiDirectoryNode" />
-              <item name="BooksApp" type="462c0819:PsiDirectoryNode" />
+              <item name="Webpack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
               <item name="flexton" type="462c0819:PsiDirectoryNode" />
-              <item name="class5" type="462c0819:PsiDirectoryNode" />
+              <item name="Webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
               <item name="flexton" type="462c0819:PsiDirectoryNode" />
-              <item name="class5" type="462c0819:PsiDirectoryNode" />
-              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="Webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
               <item name="flexton" type="462c0819:PsiDirectoryNode" />
-              <item name="class5" type="462c0819:PsiDirectoryNode" />
-              <item name="myapp" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="Webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="02_04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexton" type="462c0819:PsiDirectoryNode" />
+              <item name="Webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="02_04" type="462c0819:PsiDirectoryNode" />
+              <item name="completed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexton" type="462c0819:PsiDirectoryNode" />
+              <item name="Webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexton" type="462c0819:PsiDirectoryNode" />
+              <item name="Webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch04" type="462c0819:PsiDirectoryNode" />
+              <item name="04_03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexton" type="462c0819:PsiDirectoryNode" />
+              <item name="Webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch04" type="462c0819:PsiDirectoryNode" />
+              <item name="04_03" type="462c0819:PsiDirectoryNode" />
+              <item name="start" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -432,27 +448,29 @@
       <workItem from="1518847742029" duration="4000" />
       <workItem from="1519055121126" duration="8676000" />
       <workItem from="1519066831011" duration="277000" />
-      <workItem from="1519067111147" duration="849000" />
+      <workItem from="1519067111147" duration="955000" />
+      <workItem from="1519085492887" duration="791000" />
+      <workItem from="1519338853623" duration="540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180852000" />
+    <option name="totallyTimeSpent" value="182289000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="33" y="23" width="1407" height="877" extended-state="6" />
+    <frame x="30" y="23" width="1410" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2027417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20230381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31713554" sideWeight="0.5151515" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37212276" sideWeight="0.4938199" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2983368" sideWeight="0.4848485" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29795396" sideWeight="0.4848485" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3887468" sideWeight="0.4862915" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3887468" sideWeight="0.4862915" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -920,37 +938,31 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/class5/myapp/routes/index.js</url>
           <line>22</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="222" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/class5/myapp/routes/index.js</url>
           <line>23</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="223" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/class5/myapp/routes/index.js</url>
           <line>38</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="224" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/class5/myapp/routes/index.js</url>
           <line>47</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="225" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/class5/myapp/routes/index.js</url>
           <line>50</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="226" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/class5/myapp/routes/index.js</url>
           <line>35</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="227" />
         </line-breakpoint>
       </breakpoints>
@@ -1021,13 +1033,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/todocomplete/public/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beginning-nodejs-code/chapter9/chapter9/angularstart/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1189,7 +1194,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="136">
             <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1292,7 +1296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1">
           <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1316,7 +1319,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1324,9 +1326,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1346,6 +1345,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/class5/myapp/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class5/myapp/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/class5/myapp/bin/www">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -1354,18 +1369,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class5/myapp/app.js">
+    <entry file="file://$PROJECT_DIR$/Webpack/Exercise Files/Ch02/02_04/completed/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class5/myapp/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
